@@ -5,5 +5,5 @@ Continental Operations LLC is an IT consultanting and cybersecurity company base
 
 
 ## Contact
-For inquiries please, contact us at info[at]continentalops.com
+For inquiries please, contact us at info@continentalops.com
 
